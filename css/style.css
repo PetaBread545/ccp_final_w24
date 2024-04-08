@@ -406,6 +406,7 @@ iframe {
         display: block;
         flex: 0 0 auto;
         margin-bottom: 15px;
+        padding-bottom: 20px;
         max-height: 100vh;
         max-width: 48vw;
         margin-right: 25px;
